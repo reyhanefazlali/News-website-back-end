@@ -1,0 +1,6 @@
+asgiref==3.5.2
+pytz==2022.6
+sqlparse==0.4.3
+Django==3.2
+Pillow==9.3.0
+ipython==8.6.0
